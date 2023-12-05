@@ -1,0 +1,43 @@
+1. Discuss in your teams what a decentralised version of a game like
+monopoly would be like, if there was no software on a central server.
+
+Consider
+What are the essential pieces of functionality ?
+How could people cheat ?
+How could you prevent them from cheating ?
+
+2. Do you feel that Central Bank Digital Currencies (CBDCs) are a move
+towards decentralisation? Will they help or hinder adoption of other
+cryptocurrencies?
+
+
+Answers
+1. The essential pieces of functionality are:
+- The board
+- The pieces
+- The dice
+- The rules
+- The money
+- The players
+
+People could cheat by changing any one piece of functionality. 
+For example, they could change the rules so that they get more money when they pass go. 
+Or they could change the money so that they get more money when they pass go.
+Or they could change the dice so that they always roll a six. 
+Or they could change the board so that they can move to any square they want. 
+Or they could change the pieces so that they can move to any square they want. 
+Or they could change the players abilities so that they can move to any square they want or receives a discount on rent.
+
+You could prevent them from cheating by making the pieces of functionality decentralised.
+For example, you could make the pieces of functionality into smart contracts on a blockchain.
+Then the rules would be enforced by the smart contract, which would be immutable and self-exectuing.
+Each transaction would be recorded on the blockchain, so it would be impossible to cheat because
+the blockchain would be the source of truth and verifiable by all players.
+
+2. CBDCs are currencies issued by central banks that are digital, for example, the digital yuan.
+They will help adoption of other cryptocurrencies because they will make people more comfortable with digital currencies, but
+they are not decentralised because they are issued by a single entity, the central bank.
+With the digital yuan, the central bank can see all transactions, but not the public therefore it is not transparent and verifiable by all.
+Meaning, the central bank can censor transactions (ex. funding an overseas war) and change the rules at any time (ex. people from a certain region can not execute transaction).
+Therefore, CBDCs are not a move towards decentralisation, but may help with the adoption of other cryptocurrencies.
+*/
