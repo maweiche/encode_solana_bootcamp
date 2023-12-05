@@ -1,0 +1,1 @@
+Repo to track lessons and homework completed in Encode Club's Solana/Rust bootcamp.
