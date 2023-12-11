@@ -7,7 +7,7 @@
 
 Answers:
 
-1. Validator count is 1,993 according to https://solanabeach.io/validators
+1. Validator count is 2,129 -> https://explorer.solana.com/
 2. This is the first block of the Solana blockchain.
 3. This is the address of the Solana Incinerator, where tokens/nft's are sent to be burned.
 4. This transaction is sending 11_365_0066 SOL to the incinerator.
