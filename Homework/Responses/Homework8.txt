@@ -1,0 +1,27 @@
+1. How in practice can the DEX design differ between Solana and Ethereum?
+2. What features would you look for when selecting a Solana wallet?.
+3. Does any wallet have all these features ? 
+4. Which wallet have you chosen ?. 
+5. How is the token functionality design process different on Solana?
+6. Which Solana DeFi project has the most value locked ? 
+7. What difference do low fees on a blockchain make to trading strategies ?
+
+#Answers
+1. The DEX design can differ between Solana and Ethereum in the following ways:
+    - Solana is faster than Ethereum, so the DEX can be faster.
+    - Solana is cheaper than Ethereum, so the DEX can be cheaper.
+    - Solana has a different programming language than Ethereum, so the DEX can be written in a different language.
+    - Solana has a different consensus mechanism than Ethereum, so the DEX can be designed differently.
+
+2. The features I would look for in selecting a wallet are mobile compatibility, ease of use, and security. Currently the easiest way to interact
+    with dApps on mobile are within the wallet's internal browser, so I would look for a wallet that has a good internal browser with a clean UI.
+    I would also look for a wallet that has a good reputation and has been around for a while, so that I can be sure that my funds are safe. Ideally, I would
+    prefer the wallet's code to be open-source, however this is not a requirement.
+
+3. I believe Solflare has all of these capabilities currently. It is open-source, has a mobile app, and has a browser extension. It also has a clean UI and is easy to use.
+    However, it is only available on Solana, so it does not have multi-chain support.
+
+4. I currently use Phantom wallet, it is currently not open-source, but it is Multi-Chain which allows me to utilize it for Ethereum and Solana dApps. It also
+    has a clean UI and is easy to use.
+
+5. The token functionality design process is different on Solana because all tokens are SPL-Tokens 

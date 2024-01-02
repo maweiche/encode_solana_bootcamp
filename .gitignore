@@ -1,1 +1,6 @@
 .DS_Store
+.anchor
+target
+**/*.rs.bk
+node_modules
+test-ledger
